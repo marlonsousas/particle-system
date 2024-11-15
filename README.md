@@ -29,4 +29,4 @@ Para rodar o projeto, você precisa ter o SFML instalado em seu ambiente. Siga a
 
 ![Captura](https://raw.githubusercontent.com/marlonsousas/particle-system/refs/heads/main/assets/capture.png)
 
-![Captura Gif](https://raw.githubusercontent.com/marlonsousas/particle-system/refs/heads/main/assets/capture-gif.png)
+![Captura Gif](https://raw.githubusercontent.com/marlonsousas/particle-system/refs/heads/main/assets/capture-gif.gif)
