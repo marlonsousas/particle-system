@@ -27,6 +27,10 @@ Para rodar o projeto, você precisa ter o SFML instalado em seu ambiente. Siga a
 3. No seu compilador C++, inclua os diretórios `include` e `lib` do SFML em seu projeto.
 4. Link os arquivos de biblioteca `.dll` ao seu projeto.
 
-![Captura](https://raw.githubusercontent.com/marlonsousas/particle-system/refs/heads/main/assets/capture.png)
+
+## Run
 
 ![Captura Gif](https://raw.githubusercontent.com/marlonsousas/particle-system/refs/heads/main/assets/capture-gif.gif)
+
+![Captura](https://raw.githubusercontent.com/marlonsousas/particle-system/refs/heads/main/assets/capture.png)
+
